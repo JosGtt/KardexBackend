@@ -2,7 +2,7 @@
   "name": "kardex/backend",
   "description": "Backend PHP sencillo para Kardex (Railway)",
   "require": {
-    "php": ">=7.4",
+    "php": "^8.2",
     "ext-pgsql": "*",
     "ext-pdo_pgsql": "*"
   }

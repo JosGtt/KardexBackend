@@ -1,5 +1,5 @@
 <?php
-    header("Access-Control-Allow-Origin: *");
+    header("Access-Control-Allow-Origin: https://kardexfrontend-production.up.railway.app");
     header("Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept");
     require_once 'ConexionBaseDatos.php';
     $postdata = file_get_contents("php://input");
