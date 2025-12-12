@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f18599db-7c4d-40f4-acf5-556e1aa7b4fa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EditarDatosKardex.php" afterPath="$PROJECT_DIR$/EditarDatosKardex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addArchivoKardex.php" afterPath="$PROJECT_DIR$/addArchivoKardex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addRetiro.php" afterPath="$PROJECT_DIR$/addRetiro.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buscarKardex.php" afterPath="$PROJECT_DIR$/buscarKardex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conexionBaseDatos.php" afterPath="$PROJECT_DIR$/conexionBaseDatos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/consultaTablakardex.php" afterPath="$PROJECT_DIR$/consultaTablakardex.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libreriaFechas.php" afterPath="$PROJECT_DIR$/libreriaFechas.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sacarVacacion.php" afterPath="$PROJECT_DIR$/sacarVacacion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tablaCargo.php" afterPath="$PROJECT_DIR$/tablaCargo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tablaVacacion.php" afterPath="$PROJECT_DIR$/tablaVacacion.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/verificarRepetItem.php" afterPath="$PROJECT_DIR$/verificarRepetItem.php" />
+    </list>
+    <ignored path="backKardex.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="backKardex" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="buscarKardex.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buscarKardex.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4658">
+              <caret line="274" column="70" selection-start-line="274" selection-start-column="70" selection-end-line="274" selection-end-column="74" />
+              <folding>
+                <marker date="1629776725992" expanded="true" signature="1057:2508" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="2647:4112" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="4271:5631" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="5839:7220" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="5856:7220" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="7470:8934" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="9197:10757" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="11399:11400" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="11399:13052" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="13193:14802" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="18037:18817" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629776725992" expanded="true" signature="18037:18873" placeholder="SELECT \&quot;pub... detalleKardex" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consultaTablakardex.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consultaTablakardex.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2227">
+              <caret line="131" column="23" selection-start-line="131" selection-start-column="23" selection-end-line="131" selection-end-column="23" />
+              <folding>
+                <marker date="1629852543436" expanded="true" signature="607:1758" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629852543436" expanded="true" signature="4831:5663" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629852543436" expanded="true" signature="4831:5667" placeholder="SELECT \&quot;pub... detalleKardex" />
+                <marker date="1629852543436" expanded="true" signature="4831:5728" placeholder="SELECT \&quot;pub... detalleKardex" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conexionBaseDatos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conexionBaseDatos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libreriaFechas.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libreriaFechas.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libreria.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libreria.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tablaVacacionABuscar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tablaVacacionABuscar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3774">
+              <caret line="222" column="40" selection-start-line="222" selection-start-column="27" selection-end-line="222" selection-end-column="40" />
+              <folding>
+                <marker date="1628479836027" expanded="true" signature="959:2380" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="959:2398" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="959:2402" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="959:2456" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="2536:3857" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="2536:3934" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="2536:3951" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="4127:5320" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="5542:6918" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="7152:8528" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="8936:10554" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="8965:8972" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="8965:10525" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="10748:12078" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="10748:12197" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1628479836027" expanded="true" signature="10748:12226" placeholder="SELECT \&quot;pub... gestion" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libreriaObtDifFecha.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libreriaObtDifFecha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="519" column="90" selection-start-line="519" selection-start-column="90" selection-end-line="519" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tablaCargoEditar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tablaCargoEditar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+              <folding>
+                <marker date="1628471523628" expanded="true" signature="752:1146" placeholder="SELECT \&quot;pub... cargo" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sacarVacacion.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sacarVacacion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+              <folding>
+                <marker date="1627991255549" expanded="true" signature="1174:1675" placeholder="UPDATE \&quot;det... " />
+                <marker date="1627991255549" expanded="true" signature="1174:1685" placeholder="SELECT \&quot;pub... gestion" />
+                <marker date="1627991255549" expanded="true" signature="1926:2153" placeholder="SELECT \&quot;pub... vacacion" />
+                <marker date="1627991255549" expanded="true" signature="2641:2951" placeholder="INSERT INTO historialVacaciones" />
+                <marker date="1627991255549" expanded="true" signature="3055:3330" placeholder="UPDATE vacac... " />
+                <marker date="1627991255549" expanded="true" signature="3055:3342" placeholder="UPDATE vacac... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addArchivoKardex.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addArchivoKardex.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="96" column="93" selection-start-line="96" selection-start-column="93" selection-end-line="96" selection-end-column="93" />
+              <folding>
+                <marker date="1628565576893" expanded="true" signature="1022:1299" placeholder="INSERT INTO persona... " />
+                <marker date="1628565576893" expanded="true" signature="1598:1776" placeholder="INSERT INTO detalleKardex" />
+                <marker date="1628565576893" expanded="true" signature="2031:2120" placeholder="SELECT MAX(i... detalleKardex" />
+                <marker date="1628565576893" expanded="true" signature="2557:2613" placeholder="UPDATE cargo... " />
+                <marker date="1628565576893" expanded="true" signature="2557:2676" placeholder="UPDATE cargo... " />
+                <marker date="1628565576893" expanded="true" signature="3802:4014" placeholder="INSERT INTO gestion" />
+                <marker date="1628565576893" expanded="true" signature="4190:4240" placeholder="SELECT MAX(i... gestion" />
+                <marker date="1628565576893" expanded="true" signature="4561:4703" placeholder="INSERT INTO vacacion" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DeleteItemKardex.php" />
+        <option value="$PROJECT_DIR$/prueba.php" />
+        <option value="$PROJECT_DIR$/pruebaBuscar.php" />
+        <option value="$PROJECT_DIR$/addACuentaVacacion.php" />
+        <option value="$PROJECT_DIR$/buscarCI.php" />
+        <option value="$PROJECT_DIR$/verificarRepetItem.php" />
+        <option value="$PROJECT_DIR$/EditarDatosKardex.php" />
+        <option value="$PROJECT_DIR$/addRetiro.php" />
+        <option value="$PROJECT_DIR$/tablaDocumentos.php" />
+        <option value="$PROJECT_DIR$/addUsuario.php" />
+        <option value="$PROJECT_DIR$/sacarVacacion.php" />
+        <option value="$PROJECT_DIR$/validarUsuario.php" />
+        <option value="$PROJECT_DIR$/tablaUsuario.php" />
+        <option value="$PROJECT_DIR$/tablaCargo.php" />
+        <option value="$PROJECT_DIR$/tablaCargoEditar.php" />
+        <option value="$PROJECT_DIR$/tablaVacacion.php" />
+        <option value="$PROJECT_DIR$/tablaVacacionABuscar.php" />
+        <option value="$PROJECT_DIR$/EditarRetiroItem.php" />
+        <option value="$PROJECT_DIR$/tablaRetiroKardex.php" />
+        <option value="$PROJECT_DIR$/buscarTablaRetiroKardex.php" />
+        <option value="$PROJECT_DIR$/libreria.php" />
+        <option value="$PROJECT_DIR$/addArchivoKardex.php" />
+        <option value="$PROJECT_DIR$/actualizarAcuentaQueda.php" />
+        <option value="$PROJECT_DIR$/actualizarVacacionNueva.php" />
+        <option value="$PROJECT_DIR$/actualizarUsuario.php" />
+        <option value="$PROJECT_DIR$/eliminarUsuario.php" />
+        <option value="$PROJECT_DIR$/ActualizarContrasenia.php" />
+        <option value="$PROJECT_DIR$/buscarDocumentos.php" />
+        <option value="$PROJECT_DIR$/addCargo.php" />
+        <option value="$PROJECT_DIR$/tablaCargoGeneral.php" />
+        <option value="$PROJECT_DIR$/tablaCargoGeneralBusqueda.php" />
+        <option value="$PROJECT_DIR$/editarDocumentosKardex.php" />
+        <option value="$PROJECT_DIR$/addDocumentos.php" />
+        <option value="$PROJECT_DIR$/editarNombreUnidad.php" />
+        <option value="$PROJECT_DIR$/tablaUnidad.php" />
+        <option value="$PROJECT_DIR$/eliminarUnidad.php" />
+        <option value="$PROJECT_DIR$/crearUnidad.php" />
+        <option value="$PROJECT_DIR$/editarNombreCargo.php" />
+        <option value="$PROJECT_DIR$/eliminarCargo.php" />
+        <option value="$PROJECT_DIR$/libreriaFechas.php" />
+        <option value="$PROJECT_DIR$/buscarKardex.php" />
+        <option value="$PROJECT_DIR$/consultaTablakardex.php" />
+        <option value="$PROJECT_DIR$/conexionBaseDatos.php" />
+        <option value="$PROJECT_DIR$/libreriaObtDifFecha.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backKardex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backKardex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backKardex" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sistemaArchivosSedeges" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f18599db-7c4d-40f4-acf5-556e1aa7b4fa" name="Default" comment="" />
+      <created>1616123132998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616123132998</updated>
+      <workItem from="1616123146720" duration="9696000" />
+      <workItem from="1616773499023" duration="40585000" />
+      <workItem from="1617594987403" duration="94240000" />
+      <workItem from="1621880055683" duration="4864000" />
+      <workItem from="1622560557392" duration="1043000" />
+      <workItem from="1627246884403" duration="6940000" />
+      <workItem from="1627316920799" duration="81133000" />
+      <workItem from="1628133890853" duration="3037000" />
+      <workItem from="1628422976504" duration="174736000" />
+      <workItem from="1629994114446" duration="2229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="418503000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.090771556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.062193125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/buscarKardex.php</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/addArchivoKardex.php</url>
+          <line>54</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/buscarKardex.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/editarDocumentosKardex.php</url>
+          <line>484</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/addDocumentos.php</url>
+          <line>766</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/libreriaObtDifFecha.php</url>
+          <line>585</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/libreriaObtDifFecha.php</url>
+          <line>75</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/consultaTablakardex.php</url>
+          <line>135</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/consultaTablakardex.php</url>
+          <line>201</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/addACuentaVacacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conexionBaseDatos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addArchivoKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="27" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <marker date="1628565576893" expanded="true" signature="1022:1299" placeholder="INSERT INTO persona... " />
+            <marker date="1628565576893" expanded="true" signature="1598:1776" placeholder="INSERT INTO detalleKardex" />
+            <marker date="1628565576893" expanded="true" signature="2031:2120" placeholder="SELECT MAX(i... detalleKardex" />
+            <marker date="1628565576893" expanded="true" signature="2557:2613" placeholder="UPDATE cargo... " />
+            <marker date="1628565576893" expanded="true" signature="2557:2676" placeholder="UPDATE cargo... " />
+            <marker date="1628565576893" expanded="true" signature="3802:4014" placeholder="INSERT INTO gestion" />
+            <marker date="1628565576893" expanded="true" signature="4190:4240" placeholder="SELECT MAX(i... gestion" />
+            <marker date="1628565576893" expanded="true" signature="4561:4703" placeholder="INSERT INTO vacacion" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultaTablakardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding>
+            <marker date="1629852543436" expanded="true" signature="607:1758" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629852543436" expanded="true" signature="4831:5663" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629852543436" expanded="true" signature="4831:5667" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629852543436" expanded="true" signature="4831:5728" placeholder="SELECT \&quot;pub... detalleKardex" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EditarDatosKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeleteItemKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pruebaBuscar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="60" selection-start-line="0" selection-start-column="0" selection-end-line="636" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addACuentaVacacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buscarCI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verificarRepetItem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeleteItemKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addRetiro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/validarUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaVacacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="50" column="97" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EditarDatosKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaRetiroKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buscarTablaRetiroKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="48" column="52" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actualizarVacacionNueva.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actualizarAcuentaQueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actualizarUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EditarRetiroItem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ActualizarContrasenia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buscarDocumentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addCargo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaCargo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaCargoGeneral.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaCargoGeneralBusqueda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaDocumentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="56" column="53" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addDocumentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="228" column="33" selection-start-line="228" selection-start-column="33" selection-end-line="228" selection-end-column="33" />
+          <folding>
+            <marker date="1628863217734" expanded="true" signature="3045:4087" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="4318:5650" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="5805:7293" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="7465:8953" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="9133:10621" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="10800:12434" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="12630:14424" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="14636:16588" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="16817:18919" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="19163:21417" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="21678:24084" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="24339:26743" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="27013:29569" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="29859:32719" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="33022:35880" placeholder="INSERT INTO documentos... " />
+            <marker date="1628863217734" expanded="true" signature="36111:39117" placeholder="INSERT INTO documentos... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editarDocumentosKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="197" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="494" selection-end-column="2" />
+          <folding>
+            <marker date="1628831975597" expanded="true" signature="3157:4119" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="4352:5312" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="5473:6433" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="6607:7567" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="7753:8713" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="8894:9852" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="10058:11178" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="11395:12515" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="12753:14025" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="14278:15550" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="15824:17172" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="17448:18870" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="19165:20663" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="20978:22552" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="22888:24538" placeholder="UPDATE docum... " />
+            <marker date="1628831975597" expanded="true" signature="24806:26454" placeholder="UPDATE docum... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaUnidad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eliminarUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="20" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crearUnidad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editarNombreUnidad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editarNombreCargo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eliminarUnidad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eliminarCargo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sacarVacacion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+          <folding>
+            <marker date="1627991255549" expanded="true" signature="1174:1675" placeholder="UPDATE \&quot;det... " />
+            <marker date="1627991255549" expanded="true" signature="1174:1685" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1627991255549" expanded="true" signature="1926:2153" placeholder="SELECT \&quot;pub... vacacion" />
+            <marker date="1627991255549" expanded="true" signature="2641:2951" placeholder="INSERT INTO historialVacaciones" />
+            <marker date="1627991255549" expanded="true" signature="3055:3330" placeholder="UPDATE vacac... " />
+            <marker date="1627991255549" expanded="true" signature="3055:3342" placeholder="UPDATE vacac... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaVacacionABuscar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="222" column="40" selection-start-line="222" selection-start-column="27" selection-end-line="222" selection-end-column="40" />
+          <folding>
+            <marker date="1628479836027" expanded="true" signature="959:2380" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="959:2398" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="959:2402" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="959:2456" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="2536:3857" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="2536:3934" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="2536:3951" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="4127:5320" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="5542:6918" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="7152:8528" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="8936:10554" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="8965:8972" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="8965:10525" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="10748:12078" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="10748:12197" placeholder="SELECT \&quot;pub... gestion" />
+            <marker date="1628479836027" expanded="true" signature="10748:12226" placeholder="SELECT \&quot;pub... gestion" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="432" column="20" selection-start-line="432" selection-start-column="20" selection-end-line="432" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tablaCargoEditar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+          <folding>
+            <marker date="1628471523628" expanded="true" signature="752:1146" placeholder="SELECT \&quot;pub... cargo" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libreria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libreriaFechas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buscarKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4658">
+          <caret line="274" column="70" selection-start-line="274" selection-start-column="70" selection-end-line="274" selection-end-column="74" />
+          <folding>
+            <marker date="1629776725992" expanded="true" signature="1057:2508" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="2647:4112" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="4271:5631" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="5839:7220" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="5856:7220" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="7470:8934" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="9197:10757" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="11399:11400" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="11399:13052" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="13193:14802" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="18037:18817" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629776725992" expanded="true" signature="18037:18873" placeholder="SELECT \&quot;pub... detalleKardex" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addArchivoKardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="93" selection-start-line="96" selection-start-column="93" selection-end-line="96" selection-end-column="93" />
+          <folding>
+            <marker date="1628565576893" expanded="true" signature="1022:1299" placeholder="INSERT INTO persona... " />
+            <marker date="1628565576893" expanded="true" signature="1598:1776" placeholder="INSERT INTO detalleKardex" />
+            <marker date="1628565576893" expanded="true" signature="2031:2120" placeholder="SELECT MAX(i... detalleKardex" />
+            <marker date="1628565576893" expanded="true" signature="2557:2613" placeholder="UPDATE cargo... " />
+            <marker date="1628565576893" expanded="true" signature="2557:2676" placeholder="UPDATE cargo... " />
+            <marker date="1628565576893" expanded="true" signature="3802:4014" placeholder="INSERT INTO gestion" />
+            <marker date="1628565576893" expanded="true" signature="4190:4240" placeholder="SELECT MAX(i... gestion" />
+            <marker date="1628565576893" expanded="true" signature="4561:4703" placeholder="INSERT INTO vacacion" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultaTablakardex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="23" selection-start-line="131" selection-start-column="23" selection-end-line="131" selection-end-column="23" />
+          <folding>
+            <marker date="1629852543436" expanded="true" signature="607:1758" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629852543436" expanded="true" signature="4831:5663" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629852543436" expanded="true" signature="4831:5667" placeholder="SELECT \&quot;pub... detalleKardex" />
+            <marker date="1629852543436" expanded="true" signature="4831:5728" placeholder="SELECT \&quot;pub... detalleKardex" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conexionBaseDatos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libreriaObtDifFecha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="519" column="90" selection-start-line="519" selection-start-column="90" selection-end-line="519" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
