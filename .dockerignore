@@ -1,0 +1,8 @@
+.git
+.idea
+*.log
+vendor/
+node_modules/
+BaseDatos/
+dist/
+**/.DS_Store

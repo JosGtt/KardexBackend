@@ -18,6 +18,21 @@ Backend en PHP con PostgreSQL para Railway o XAMPP.
 > Nota: Actualmente `conexionBaseDatos.php` está configurado con credenciales de Railway hardcodeadas. Puedes migrarlo a variables de entorno si lo prefieres.
 > Actualizado: ahora lee `DATABASE_URL` o `POSTGRES_*` con fallback local.
 
+## Despliegue con Docker (Railway / cualquier plataforma)
+
+### Backend (PHP 7.4)
+Imagen definida en `Dockerfile` (php:7.4-cli + pgsql). El contenedor escucha en `$PORT`.
+
+Build local:
+
+```bash
+docker build -t kardex-backend .
+docker run --rm -e PORT=8080 -e DATABASE_URL="postgres://user:pass@host:5432/db" -p 8080:8080 kardex-backend
+```
+
+En Railway, selecciona "Deploy from Dockerfile" y define variables de entorno (`DATABASE_URL` o `POSTGRES_*`).
+
+
 ## Despliegue en XAMPP (Windows)
 1. Instala PostgreSQL (v9.6+ recomendado). 
 2. En `php.ini` habilita: `extension=pgsql` y `extension=pdo_pgsql`.
